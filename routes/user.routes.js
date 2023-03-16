@@ -26,4 +26,3 @@ module.exports = router;
 //client b ajax  node js //xml ou memoire //makaynch mongoose
 //jsp attender tkon haja deff // authentification mtln 
 //android ayrsmlina w y9olina le traitment
- 
